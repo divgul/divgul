@@ -1,7 +1,7 @@
 ### Hi there 👋
 - Ask me about Power BI and Model-Driven Apps on the Power Platform
 - I'm looking to learn more about Azure
-- I work at [SSW](https://ssw.com.au)
+- I work at SSW - [https://ssw.com.au]([url](https://ssw.com.au))
 
 [![Manu's github stats](https://github-readme-stats.vercel.app/api?username=divgul&theme=dark)](https://github.com/divgul/github-readme-stats)
 
